@@ -1,0 +1,48 @@
+#Font{
+    font-family: 'Anton', sans-serif; 
+}
+
+#cleaner-card{
+    border: 0;
+}
+#cleaner-card-footer{
+    background-color: white;
+    border: 0;
+}
+.S-1{
+    height: 580px;
+    background-image: linear-gradient(to right, rgba(25, 25, 112, 0.705), rgba(12, 85, 158, 0.445) )
+}
+
+.logo{
+    width: 150px;
+}
+.bottle{
+    width: 200px;
+}
+.cleaner-btn{
+    color: white;
+    padding: 2px;
+    border: 2px solid #00ccff ;
+}
+.cotto .lizol .harpic .simple .cleansol .windex .lizol{
+    width: 100px;
+    
+}
+.S-5-img{
+    width: 60px;
+    height: 60px;
+}
+.Logo{
+    width: 400px;
+}
+.Footer{
+    width: 100%;
+    height: 300px; 
+    background-image: linear-gradient(to right, rgba(25, 25, 112, 0.705), rgba(12, 85, 158, 0.445) )
+}
+#Amount-color{
+    color: rgb(15, 176, 240)
+    
+}
+
