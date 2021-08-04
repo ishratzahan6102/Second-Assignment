@@ -1,7 +1,17 @@
+.cookie img{
+    width: 80px;
+    height: 80px
+}
+.cookie{
+    background-color: white;
+    border-radius: 10px;
+} 
 #Font{
     font-family: 'Anton', sans-serif; 
 }
-
+.cleaner-carousel{
+    display: flex;
+}
 #cleaner-card{
     border: 0;
 }
@@ -10,39 +20,45 @@
     border: 0;
 }
 .S-1{
-    height: 580px;
+    width: 100%;
+    height: 200%;
     background-image: linear-gradient(to right, rgba(25, 25, 112, 0.705), rgba(12, 85, 158, 0.445) )
 }
-
 .logo{
     width: 150px;
 }
 .bottle{
     width: 200px;
 }
-.cleaner-btn{
+#cleaner-btn{
     color: white;
-    padding: 2px;
-    border: 2px solid #00ccff ;
+    padding: 14px 30px;
+    border-radius: 15px;
 }
 .cotto .lizol .harpic .simple .cleansol .windex .lizol{
-    width: 100px;
-    
+    width: 100px;    
 }
-.S-5-img{
-    width: 60px;
-    height: 60px;
+.S-1 img{
+    size: 30%;
 }
 .Logo{
     width: 400px;
 }
-{
+.search{
     width: 100%;
     height: 300px; 
     background-image: linear-gradient(to right, rgba(25, 25, 112, 0.705), rgba(12, 85, 158, 0.445) )
 }
 #Amount-color{
-    color: rgb(15, 176, 240)
-    
+    font-size: 25px;
+    color: rgb(32, 12, 207)   
 }
-
+.all-fonts{
+    border-top: 2px dotted;
+    background-image: linear-gradient(to right, rgba(25, 25, 112, 0.705), rgba(12, 85, 158, 0.445) )
+}
+.fonts{
+    margin-top: 10px;
+    font-size: 30px;
+    padding: 10px 20px 0px 0px;
+}
