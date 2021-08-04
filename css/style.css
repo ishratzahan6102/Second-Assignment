@@ -9,9 +9,6 @@
 #Font{
     font-family: 'Anton', sans-serif; 
 }
-.cleaner-carousel{
-    display: flex;
-}
 #cleaner-card{
     border: 0;
 }
@@ -19,7 +16,7 @@
     background-color: white;
     border: 0;
 }
-.S-1{
+.Best-Selling-Cleaner{
     width: 100%;
     height: 200%;
     background-image: linear-gradient(to right, rgba(25, 25, 112, 0.705), rgba(12, 85, 158, 0.445) )
@@ -27,37 +24,35 @@
 .logo{
     width: 150px;
 }
-.bottle{
+.cleansol-img{
     width: 200px;
 }
-#cleaner-btn{
+#buy-now-btn{
     color: white;
     padding: 14px 30px;
     border-radius: 15px;
 }
-.cotto .lizol .harpic .simple .cleansol .windex .lizol{
+#price{
+    font-size: 25px;
+    font-weight: 500px;
+    color: rgb(4, 69, 143)   
+}
+.cleaner-img{
     width: 100px;    
 }
-.S-1 img{
+.Best-Selling-Cleaner img{
     size: 30%;
 }
-.Logo{
-    width: 400px;
-}
-.search{
+.stay-in-touch{
     width: 100%;
     height: 300px; 
-    background-image: linear-gradient(to right, rgba(25, 25, 112, 0.705), rgba(12, 85, 158, 0.445) )
+    background-image: linear-gradient(to right, rgba(25, 25, 112, 0.705), rgba(12, 85, 158, 0.445) )  
 }
-#Amount-color{
-    font-size: 25px;
-    color: rgb(32, 12, 207)   
-}
-.all-fonts{
+.all-icons{
     border-top: 2px dotted;
     background-image: linear-gradient(to right, rgba(25, 25, 112, 0.705), rgba(12, 85, 158, 0.445) )
 }
-.fonts{
+.icons{
     margin-top: 10px;
     font-size: 30px;
     padding: 10px 20px 0px 0px;
